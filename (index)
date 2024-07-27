@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>irrvlo98</title>
+    <head>
+        <meta charSet="utf-8"/>
+        <meta name="viewport" content="width=device-width"/>
+        <meta name="next-head-count" content="2"/>
+        <link rel="preload" href="/_next/static/css/05984915e4d73a59.css" as="style" crossorigin=""/>
+        <link rel="stylesheet" href="/_next/static/css/05984915e4d73a59.css" crossorigin="" data-n-g=""/>
+        <noscript data-n-css=""></noscript>
+        <script defer="" crossorigin="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+        <script src="/_next/static/chunks/webpack-fd8027ecb5121007.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/framework-0c7baedefba6b077.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/main-7af7d5359a6145de.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/pages/_app-9acf648ca847d82b.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/chunks/pages/index-db3705ace6f145fa.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/MCeY887Q0d177MoKXoWkQ/_buildManifest.js" defer="" crossorigin=""></script>
+        <script src="/_next/static/MCeY887Q0d177MoKXoWkQ/_ssgManifest.js" defer="" crossorigin=""></script>
+    </head>
+    <body>
+        <div id="__next">
+            <main class="bg-98teal w-full h-screen flex items-center justify-center">
+                <div class="p-1 select-none place-self-center text-sm flex flex-col min-w-[20rem] max-w-full w-min h-min bg-98lightgray border-l-98white border-t-98white border-b-98darkgray border-r-98darkgray border-[2px]">
+                    <div>
+                        <h1 class="text-98white text-base w-full flex flex-row items-center justify-between h-7 p-1 bg-gradient-to-r from-98blue to-98lightblue gap-2">
+                            <strong>Profile</strong>
+                            <div class="flex flex-row h-full">
+                                <button class="w-5 max-h-[1.75rem] flex items-center justify-center bg-98lightgray border-l-98white border-t-98white border-b-black border-r-black border-[2px] text-98darkgray ml-1">
+                                    <span class="">X</span>
+                                </button>
+                            </div>
+                        </h1>
+                    </div>
+                    <div class="relative mb-8 mt-2">
+                        <img class="object-cover w-full h-24" src="img/banner98.png"/>
+                        <img class="h-16 w-16 absolute -bottom-8" src="img/irrvlo98.png"/>
+                    </div>
+                    <div class="flex flex-col px-1">
+                        <h1 class="text-xl font-bold">irrvlo</h1>
+                        <h2 class="text-sm">@irrvlo</h2>
+                        <span class="w-full my-2 border-b-98white border-t-98darkgray border-[1px]"></span>
+                        <div class="flex flex-col gap-1 overflow-y-auto max-h-[8rem]"></div>
+                        <h1 class="text-sm">Socials</h1>
+                        <div class="flex flex-row gap-1 mt-1">
+                            <a href="https://x.com/irrvlo">
+                                <img src="img/x98.png" class="w-6 h-6" alt="X"/>
+                            </a>
+                            <a href="https://twitch.tv/irrvlo">
+                                <img src="img/twitch98.png" class="w-6 h-6" alt="Twitch"/>
+                            </a>
+                            <a href="https://discord.com/users/871895500490678273">
+                                <img src="img/discord98.png" class="w-fit h-6" alt="Discord"/>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="flex flex-row justify-end gap-2 p-1">
+                        <button class="w-5 max-h-[1.75rem] flex items-center justify-center bg-98lightgray border-l-98white border-t-98white border-b-black border-r-black border-[2px] text-98darkgray min-w-[5rem]">
+                            <span class="border-black border-dotted hover:border w-full h-[1.25rem] m-[0.1rem]">OK</span>
+                        </button>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <script id="__NEXT_DATA__" type="application/json" crossorigin="">
+            {
+                "props": {
+                    "pageProps": {
+                    }
+                },
+                "page": "/",
+                "query": {
+                },
+                "buildId": "MCeY887Q0d177MoKXoWkQ",
+                "nextExport": true,
+                "autoExport": true,
+                "isFallback": false,
+                "scriptLoader": [
+                ]
+            }</script>
+    </body>
+</html>
