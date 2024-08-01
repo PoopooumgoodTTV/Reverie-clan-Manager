@@ -1,2 +1,4 @@
 # Reverie-clan-Manager
-https://1258173648989327361-nd-staging.botda.sh/
+[![Slap(https://www.tumblr.com/daradadaddaxadadadadadadad/757574743711973376/hehe?source=share)]
+[slap(https://www.tumblr.com/daradadaddaxadadadadadadad/757574743711973376/hehe?source=share)]
+[![slap](https://www.tumblr.com/daradadaddaxadadadadadadad/757574743711973376/hehe?source=share)
