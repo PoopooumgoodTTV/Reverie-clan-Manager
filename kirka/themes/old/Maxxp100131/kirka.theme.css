@@ -362,49 +362,49 @@
 /* Left Icon Text Translation*/
 .icon-btn.text-1.HUB:after {
     visibility: visible;
-    content: "R" !important;
+    content: "M" !important;
     font-family: gamefont;
     font-size: 35px;
 }
 
 .icon-btn.text-1.STORE:after {
     visibility: visible;
-    content: "E" !important;
+    content: "A" !important;
     font-family: gamefont;
     font-size: 35px;
 }
 
 .icon-btn.text-1.SERVERS:after {
     visibility: visible;
-    content: "V" !important;
+    content: "X" !important;
     font-family: gamefont;
     font-size: 35px;
 }
 
 .icon-btn.text-1.QUESTS:after {
     visibility: visible;
-    content: "E" !important;
+    content: "X" !important;
     font-family: gamefont;
     font-size: 35px;
 }
 
 .icon-btn.text-1.FRIENDS:after {
     visibility: visible;
-    content: "R" !important;
+    content: "P" !important;
     font-family: gamefont;
     font-size: 35px;
 }
 
 .icon-btn.text-1.INVENTORY:after {
     visibility: visible;
-    content: "I" !important;
+    content: "Y" !important;
     font-family: gamefont;
     font-size: 35px;
 }
 
 .icon-btn.text-1.MAP:after {
     visibility: visible;
-    content: "E" !important;
+    content: "T" !important;
     font-family: gamefont;
     font-size: 35px;
 }
