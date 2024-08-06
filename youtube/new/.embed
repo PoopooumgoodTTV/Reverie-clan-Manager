@@ -1,0 +1,34 @@
+{
+  "embeds": [
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=INoBID_JakQ&start=66",
+      "title": "kirka.io",
+      "description": "info https://guns.lol/poopooumgood",
+      "color": 16711680,
+      "author": {
+        "name": "~TTV~",
+        "url": "https://www.youtube.com/channel/UCmhEQSh56C0mhN96PzgJ89Q"
+      },
+      "provider": {
+        "name": "YouTube",
+        "url": "https://www.youtube.com"
+      },
+      "thumbnail": {
+        "url": "https://i.ytimg.com/vi/INoBID_JakQ/maxresdefault.jpg",
+        "proxy_url": "https://images-ext-1.discordapp.net/external/HdkQlPUjFtJ0KtsquhDxloBOAGO6aZ7x4ohN20mOaSw/https/i.ytimg.com/vi/INoBID_JakQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720,
+        "placeholder": "FykKJIQZWSeAeHmbZ4xocIkFlg==",
+        "placeholder_version": 1
+      },
+      "video": {
+        "url": "https://www.youtube.com/embed/INoBID_JakQ?start=66",
+        "width": 1152,
+        "height": 720,
+        "placeholder": "FykKJIQZWSeAeHmbZ4xocIkFlg==",
+        "placeholder_version": 1
+      }
+    }
+  ]
+}
