@@ -3,7 +3,7 @@
     box-sizing: border-box;
   }
   body {
-      background-image: url("images\portBackground.jpg");
+      background-image: url("/R.png");
       background-size: cover;
       background-position: 0% 25%;
       background-color: #A8322D;
