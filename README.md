@@ -21,4 +21,9 @@ https://poopooumgoodttv.github.io/Reverie-clan-Manager/
 >~~`JavaScript`~~
 > some how
 
------
+```css
+   ❐❐❐❐   ❐❐❐❐    ❐    ❐
+     ❐       ❐      ❐     ❐
+     ❐       ❐       ❐   ❐
+     ❐       ❐         ❐
+```
