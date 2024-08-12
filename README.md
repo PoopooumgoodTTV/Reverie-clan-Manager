@@ -1,5 +1,5 @@
 use full links -> [kirka/clan/css](/Reverie-clan-Manager/kirka/themes/old/kirka.theme.css)
 [Juice/Client.css](/kirka/themes/old/Juice/Client/kirka.theme.css)
-[Youtube/vids](/youtube/new/vids.html)
-[maxxp100131/css](/kirka/themes/old/Maxxp100131/kirka.theme.css)
-[New/clan/css](/kirka/themes/old/Reverie/new/clan/kirka.theme.css)
+[Youtube/vids](/Reverie-clan-Manager/youtube/new/vids.html)
+[maxxp100131/css](/Reverie-clan-Manager/kirka/themes/old/Maxxp100131/kirka.theme.css)
+[New/clan/css](/Reverie-clan-Manager/kirka/themes/old/Reverie/new/clan/kirka.theme.css)
