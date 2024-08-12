@@ -12,7 +12,8 @@ https://poopooumgoodttv.github.io/Reverie-clan-Manager/
 ```
 >`Link ^`
 >**_THX :D_**
->`And all of this is`
+
+>`All of this is made up of`
 
 >`css`
 
