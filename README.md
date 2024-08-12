@@ -1,4 +1,5 @@
-># NOTE
+> ```py
+>                                Reverie-clan-Manager.css                                ⤬ -⠀❐⠀  
 
 >THIS WAS MADE BY
 
@@ -20,4 +21,4 @@ https://poopooumgoodttv.github.io/Reverie-clan-Manager/
 >~~`JavaScript`~~
 > some how
 
-
+-----
