@@ -1,8 +1,12 @@
-html {
-background: #352c3a;
-background: -webkit-linear-gradient(left, #352c3a, #ff3c00);
-background: -moz-linear-gradient(left, #352c3a, #ff3c00);
-background: -ms-linear-gradient(left, #352c3a, #ff3c00);
-background: -o-linear-gradient(left, #352c3a, #ff3c00);
-background: linear-gradient(to right, #352c3a, #ff3c00);
+/* universal mode */
+* {
+    box-sizing: border-box;
+  }
+  body {
+      background-image: url("images\portBackground.jpg");
+      background-size: cover;
+      background-position: 0% 25%;
+      background-color: #A8322D;
+      background-attachment: fixed;
+      cursor: crosshair;
 }
