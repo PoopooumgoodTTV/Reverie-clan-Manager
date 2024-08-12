@@ -27,3 +27,7 @@ https://poopooumgoodttv.github.io/Reverie-clan-Manager/
      ❐       ❐       ❐   ❐
      ❐       ❐         ❐
 ```
+S-code
+```py
+https://raw.githubusercontent.com/PoopooumgoodTTV/Reverie-clan-Manager/main/index.html
+```
