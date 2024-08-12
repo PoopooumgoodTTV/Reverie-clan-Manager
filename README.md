@@ -3,3 +3,4 @@ use full links -> [kirka/clan/css](/Reverie-clan-Manager/kirka/themes/old/kirka.
 [Youtube/vids](/Reverie-clan-Manager/youtube/new/vids.html)
 [maxxp100131/css](/Reverie-clan-Manager/kirka/themes/old/Maxxp100131/kirka.theme.css)
 [New/clan/css](/Reverie-clan-Manager/kirka/themes/old/Reverie/new/clan/kirka.theme.css)
+![image](https://github.com/user-attachments/assets/765e49fd-4550-404f-b801-f501f88af277)
