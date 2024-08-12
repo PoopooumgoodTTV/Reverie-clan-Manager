@@ -15,11 +15,11 @@ https://poopooumgoodttv.github.io/Reverie-clan-Manager/
 
 >`All of this is made up of`
 
->`css`
+- >`css`
 
->`Html`
+- >`Html`
 
->~~`JavaScript`~~
+- >~~`JavaScript`~~
 >`some how`
 
 ```DOT BE TRYING TO LOOK AT THE CODE
