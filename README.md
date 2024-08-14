@@ -40,16 +40,16 @@ https://github.com/PoopooumgoodTTV/Reverie-clan-Manager/tree/main/kirka/themes/o
 ```diff
 - https://raw.githubusercontent.com/PoopooumgoodTTV/Reverie-clan-Manager/main/README.md
 ```
-```html
-my-app
-├── README.md
-├── 📁 Page-2
-├── .github
-├── 📁 kirka/themes/old
-├── 📁 Youtube/new
-│   ├── 📁 favicon
-│   ├── index.html
-│   └── index.css
-└── src
-      └── Me hehe
+```diff
+Reverie-clan-Manager
++ ├── README.md
++ ├── 📁 Page-2
+- ├── .github
++ ├── 📁 kirka/themes/old
++ ├── 📁 Youtube/new
+- │   ├── 📁 favicon
++ │   ├── index.html
++ │   └── index.css
+- └── src
++      └── Me hehe
 ```
