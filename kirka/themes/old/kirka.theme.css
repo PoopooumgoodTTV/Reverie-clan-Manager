@@ -208,7 +208,7 @@
     display: none !important;
 }
 .interface .nickname:after {
-    content: url(https://64.media.tumblr.com/7bffd193d6a175ecd8e3f8900c357d2b/19df8eee48a8bab1-0f/s100x200/73494f3c0cc8a1ca8b30da27a9886eeda600c336.gifv) !important;
+    content: url() !important;
     margin-top: -3%;
 }
 
