@@ -1,0 +1,36 @@
+/* light and dark more style */
+body {
+  padding: 25px;
+  background:gray;
+  color: black;
+  font-size: 25px;
+}
+
+thead{
+  background-color: lightblue
+}
+
+.dark-main {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-hero{
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.dark-play {
+  background-color: #2a2a2a;
+  color: white;
+  border: white;
+}
+
+.dark-text {
+  color: white !important;
+}
+
+.table{
+  width: 100px;
+  visibility: initial;
+}
