@@ -213,3 +213,26 @@ background: -webkit-linear-gradient(left, #000000,#808080,#ffffff,#808080,#00000
 
  <h1><span style="color:#000000,#808080,#ffffff,#808080,#000000">'credits'</span> <h1><span style="color:#ff9e00">---------------------------------------------------------------------</span>
 <h1><h1></h1><span style="color:#7f00ff">    -Jboy | #VLV2ZM-      </span> <h1><h1></h1><span  style="color:#ffffff"> avysu. | #QYRPV0</span> <h1><h1></h1><span style="color:#ff0000"> {Glitchy} Reverie | #B0TMFC</span> <h1></h1><span style="color:#ff0000">[Reverie]PoopooumgoodYT-|#985CBJ</span> <h1><h1></h1><span style="color:#67db00">    -Jolly-     </span> </h1><small>© TTV 2024 Github .io<small></h1>
+    <audio id="myAudio">
+      <source src="music.mp3" type="audio/ogg">
+    </audio>
+
+    <script>
+      var x = document.getElementById("myAudio");
+      var sliderLevel = document.querySelector('#volume-slider')
+      x.volume = sliderLevel.value/100
+      sliderLevel.addEventListener("change", function(e) {
+        x.volume = e.currentTarget.value / 100;
+      })
+
+      function playAudio(btn) {
+           if(x.paused) {
+             x.play();
+             document.querySelector(".btn-primary").innerHTML = "Pause Music";
+           }
+           else {
+             x.pause();
+             document.querySelector(".btn-primary").innerHTML = "Play Music";
+           }
+      }
+    </script>
