@@ -17,7 +17,7 @@ function renderContributorsTable(contributors) {
   document.getElementById("ct").innerHTML = i - 1 + " Contributors";
 }
 
-fetch("https://api.github.com/repos/PoopooumgoodTTV/Reverie-clan-Manager/contributors")
+fetch("https://api.kirka.io/api/User/#985CBJ")
   .then((response) => response.json())
   .then((contributors) => renderContributorsTable(contributors))
   .catch((err) => console.log("Request Failed", err));
