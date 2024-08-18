@@ -239,3 +239,29 @@ background: -webkit-linear-gradient(left, #000000,#808080,#ffffff,#808080,#00000
            }
       }
     </script>
+      <!-- <button onclick="myFunction()">Toggle dark mode</button> -->
+
+<script>
+function myFunction() {
+   var main = document.body;
+   var hero = document.getElementsByClassName('navbar')[0]
+   var container = document.getElementById('play')
+   var darkToggle = document.getElementsByClassName('btn')
+   var heroText = document.getElementsByClassName('navbar-brand')
+   var arr = Array.prototype.slice.call(heroText)
+
+   arr.forEach(element => {
+    element.classList.toggle('dark-text')
+   });
+
+   if (darkToggle[1].textContent === "Dark Mode"){
+     darkToggle[1].textContent = "Light Mode"
+   } else {
+     darkToggle[1].textContent = "Dark Mode"
+   }
+
+   hero.classList.toggle("dark-hero");
+   main.classList.toggle("dark-main");
+   container.classList.toggle("dark-play")
+}
+</script>
