@@ -53,4 +53,4 @@ Reverie-clan-Manager
 - └── src
 +      └── Me hehe
 ```
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314xchviup3f5k4d5wkqesvd3nqe&cover_image=true&theme=karaoke&show_offline=false&background_color=4f0000&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=314xchviup3f5k4d5wkqesvd3nqe&redirect=true)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1169111190824308768)](https://discord.com/users/1169111190824308768)
